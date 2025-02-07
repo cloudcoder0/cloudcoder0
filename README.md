@@ -12,4 +12,3 @@ Outside of learning all of this, I have other hobbies such as gaming, journaling
 
 I hope that my repositories help someone out there, as I believe knowledge should be shared to everyone. 
 
-If anyone wants to collaborate or just chat about coding or anything, my discord is clouddddddd_ :P
