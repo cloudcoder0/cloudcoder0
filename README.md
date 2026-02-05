@@ -25,15 +25,6 @@
 
 ---
 
-### github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloudcoder0&show_icons=true&theme=tokyonight&hide_border=true" alt="cloud's github stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudcoder0&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" height="165" />
-</p>
-
----
-
 ### recent activity
 
 <!--START_SECTION:activity-->
