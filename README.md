@@ -1,6 +1,6 @@
 # hey, i'm cloud :wave:
 
-**Sedona Abrams** | Cybersecurity Enthusiast | CS Student @ ASU
+**Sedona Abrams** | Cybersecurity Enthusiast | CSE Student @ ASU
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cloudcoder0&color=blueviolet&style=flat-square)
 
@@ -40,7 +40,3 @@
 <!--END_SECTION:activity-->
 
 ---
-
-<p align="center">
-  <i>always learning, always building.</i>
-</p>
