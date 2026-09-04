@@ -1,4 +1,4 @@
-hey there :) i'm cloud, but you can call me salem or sal :D
+hey there :) i'm cloud!
 
 i am a co-founder for the ctf team idktheflag and i'm a co-president for the ASU hacking club. i also am a member of the cybersecurity collective, Shellphish. i aspire to contribute to cybersecurity research to contribute novel information to make our world more secure digitally, but i also strive to create my own automated software tools to solve real problems in the world today in multiple fields. i have some in the works currently. technology is a very big part of my life and one of the reasons I'm still here <3 
 
